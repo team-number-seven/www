@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "IdentityServerHost": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:1001/dev/home",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:1001;http://localhost:1000"
+    }
+  }
+}
